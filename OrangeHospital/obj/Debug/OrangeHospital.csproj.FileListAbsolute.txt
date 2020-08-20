@@ -1,0 +1,15 @@
+C:\Users\DML SANDATHARA\Desktop\AcademicHelp\DB design\application\OrangeHospital\OrangeHospital\bin\Debug\OrangeHospital.exe.config
+C:\Users\DML SANDATHARA\Desktop\AcademicHelp\DB design\application\OrangeHospital\OrangeHospital\bin\Debug\OrangeHospital.exe
+C:\Users\DML SANDATHARA\Desktop\AcademicHelp\DB design\application\OrangeHospital\OrangeHospital\bin\Debug\OrangeHospital.pdb
+C:\Users\DML SANDATHARA\Desktop\AcademicHelp\DB design\application\OrangeHospital\OrangeHospital\obj\Debug\OrangeHospital.csprojAssemblyReference.cache
+C:\Users\DML SANDATHARA\Desktop\AcademicHelp\DB design\application\OrangeHospital\OrangeHospital\obj\Debug\OrangeHospital.Form1.resources
+C:\Users\DML SANDATHARA\Desktop\AcademicHelp\DB design\application\OrangeHospital\OrangeHospital\obj\Debug\OrangeHospital.Form2.resources
+C:\Users\DML SANDATHARA\Desktop\AcademicHelp\DB design\application\OrangeHospital\OrangeHospital\obj\Debug\OrangeHospital.Properties.Resources.resources
+C:\Users\DML SANDATHARA\Desktop\AcademicHelp\DB design\application\OrangeHospital\OrangeHospital\obj\Debug\OrangeHospital.csproj.GenerateResource.cache
+C:\Users\DML SANDATHARA\Desktop\AcademicHelp\DB design\application\OrangeHospital\OrangeHospital\obj\Debug\OrangeHospital.csproj.CoreCompileInputs.cache
+C:\Users\DML SANDATHARA\Desktop\AcademicHelp\DB design\application\OrangeHospital\OrangeHospital\obj\Debug\OrangeHospital.exe
+C:\Users\DML SANDATHARA\Desktop\AcademicHelp\DB design\application\OrangeHospital\OrangeHospital\obj\Debug\OrangeHospital.pdb
+C:\Users\DML SANDATHARA\Desktop\AcademicHelp\DB design\application\OrangeHospital\OrangeHospital\obj\Debug\OrangeHospital.Home.resources
+C:\Users\DML SANDATHARA\Desktop\AcademicHelp\DB design\application\OrangeHospital\OrangeHospital\obj\Debug\OrangeHospital.Patients.resources
+C:\Users\DML SANDATHARA\Desktop\AcademicHelp\DB design\application\OrangeHospital\OrangeHospital\obj\Debug\OrangeHospital.Doctors.resources
+C:\Users\DML SANDATHARA\Desktop\AcademicHelp\DB design\application\OrangeHospital\OrangeHospital\obj\Debug\OrangeHospital.Appointment.resources
